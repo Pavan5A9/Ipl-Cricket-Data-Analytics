@@ -1,4 +1,4 @@
-# 🏏 IPL Cricket Analytics Dashboard
+# 🏏 IPL Cricket Analytics 
 
 An interactive **Python + Streamlit** web application for analyzing IPL player performance, team statistics, match outcomes, and cricket insights using dynamic visualizations.
 
@@ -198,5 +198,5 @@ This project helped strengthen skills in:
 
 ---
 
-ject useful, consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
+
 
