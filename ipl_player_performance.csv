@@ -1,0 +1,415 @@
+Match_ID,Player,Team,Opponent,Runs,Balls,Wickets,Fours,Sixes,Season,Venue,Toss_Winner,Toss_Decision,Result,Strike_Rate
+M_0001,Rohit Sharma,MI,LSG,30,24,0,2,0,2021,"Eden Gardens, Kolkata",MI,Bat,Win,125.0
+M_0001,Suryakumar Yadav,MI,LSG,46,30,0,4,1,2021,"Eden Gardens, Kolkata",MI,Bat,Win,153.33
+M_0001,KL Rahul,LSG,MI,48,38,0,4,0,2021,"Eden Gardens, Kolkata",MI,Bat,Lose,126.32
+M_0001,Hardik Pandya,MI,LSG,28,20,0,2,0,2021,"Eden Gardens, Kolkata",MI,Bat,Win,140.0
+M_0001,Jasprit Bumrah,MI,LSG,0,0,2,0,0,2021,"Eden Gardens, Kolkata",MI,Bat,Win,0.0
+M_0002,Virat Kohli,RCB,LSG,30,23,0,2,0,2021,"Eden Gardens, Kolkata",LSG,Bat,Lose,130.43
+M_0002,KL Rahul,LSG,RCB,17,14,0,1,0,2021,"Eden Gardens, Kolkata",LSG,Bat,Win,121.43
+M_0003,MS Dhoni,CSK,GT,5,3,0,0,0,2021,"Narendra Modi Stadium, Ahmedabad",GT,Bowl,Lose,166.67
+M_0003,Shubman Gill,GT,CSK,63,46,0,5,1,2021,"Narendra Modi Stadium, Ahmedabad",GT,Bowl,Win,136.96
+M_0003,Ravindra Jadeja,CSK,GT,19,14,1,1,0,2021,"Narendra Modi Stadium, Ahmedabad",GT,Bowl,Lose,135.71
+M_0003,Rashid Khan,GT,CSK,21,18,1,1,0,2021,"Narendra Modi Stadium, Ahmedabad",GT,Bowl,Win,116.67
+M_0004,KL Rahul,LSG,RR,21,15,0,2,0,2021,"Wankhede Stadium, Mumbai",RR,Bowl,Win,140.0
+M_0004,Yuzvendra Chahal,RR,LSG,2,2,1,0,0,2021,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,100.0
+M_0005,Virat Kohli,RCB,GT,16,14,0,1,0,2021,"Narendra Modi Stadium, Ahmedabad",RCB,Bat,Lose,114.29
+M_0005,Shubman Gill,GT,RCB,66,47,0,5,1,2021,"Narendra Modi Stadium, Ahmedabad",RCB,Bat,Win,140.43
+M_0005,Rashid Khan,GT,RCB,7,4,3,0,0,2021,"Narendra Modi Stadium, Ahmedabad",RCB,Bat,Win,175.0
+M_0006,Virat Kohli,RCB,KKR,29,22,0,2,0,2021,"Wankhede Stadium, Mumbai",KKR,Bat,Lose,131.82
+M_0006,Rinku Singh,KKR,RCB,36,26,0,3,0,2021,"Wankhede Stadium, Mumbai",KKR,Bat,Win,138.46
+M_0007,Virat Kohli,RCB,MI,69,63,0,5,0,2021,"Eden Gardens, Kolkata",RCB,Bat,Lose,109.52
+M_0007,Rohit Sharma,MI,RCB,27,20,0,2,0,2021,"Eden Gardens, Kolkata",RCB,Bat,Win,135.0
+M_0007,Suryakumar Yadav,MI,RCB,55,31,0,4,2,2021,"Eden Gardens, Kolkata",RCB,Bat,Win,177.42
+M_0007,Hardik Pandya,MI,RCB,22,13,0,2,0,2021,"Eden Gardens, Kolkata",RCB,Bat,Win,169.23
+M_0007,Jasprit Bumrah,MI,RCB,1,1,1,0,0,2021,"Eden Gardens, Kolkata",RCB,Bat,Win,100.0
+M_0008,KL Rahul,LSG,RR,54,51,0,4,0,2021,"Narendra Modi Stadium, Ahmedabad",LSG,Bat,Lose,105.88
+M_0008,Yuzvendra Chahal,RR,LSG,1,1,1,0,0,2021,"Narendra Modi Stadium, Ahmedabad",LSG,Bat,Win,100.0
+M_0009,MS Dhoni,CSK,LSG,25,16,0,2,0,2021,"Wankhede Stadium, Mumbai",CSK,Bowl,Lose,156.25
+M_0009,KL Rahul,LSG,CSK,39,26,0,4,0,2021,"Wankhede Stadium, Mumbai",CSK,Bowl,Win,150.0
+M_0009,Ravindra Jadeja,CSK,LSG,40,43,1,2,0,2021,"Wankhede Stadium, Mumbai",CSK,Bowl,Lose,93.02
+M_0010,KL Rahul,LSG,RR,86,75,0,6,1,2021,"Eden Gardens, Kolkata",LSG,Bowl,Win,114.67
+M_0010,Yuzvendra Chahal,RR,LSG,3,4,1,0,0,2021,"Eden Gardens, Kolkata",LSG,Bowl,Lose,75.0
+M_0011,Rohit Sharma,MI,LSG,18,13,0,1,0,2021,"MA Chidambaram Stadium, Chennai",LSG,Bat,Lose,138.46
+M_0011,Suryakumar Yadav,MI,LSG,47,36,0,3,1,2021,"MA Chidambaram Stadium, Chennai",LSG,Bat,Lose,130.56
+M_0011,KL Rahul,LSG,MI,59,42,0,4,1,2021,"MA Chidambaram Stadium, Chennai",LSG,Bat,Win,140.48
+M_0011,Hardik Pandya,MI,LSG,9,6,1,1,0,2021,"MA Chidambaram Stadium, Chennai",LSG,Bat,Lose,150.0
+M_0011,Jasprit Bumrah,MI,LSG,1,2,4,0,0,2021,"MA Chidambaram Stadium, Chennai",LSG,Bat,Lose,50.0
+M_0012,MS Dhoni,CSK,LSG,27,17,0,3,0,2021,"Wankhede Stadium, Mumbai",LSG,Bowl,Win,158.82
+M_0012,KL Rahul,LSG,CSK,26,17,0,3,0,2021,"Wankhede Stadium, Mumbai",LSG,Bowl,Lose,152.94
+M_0012,Ravindra Jadeja,CSK,LSG,30,25,1,2,0,2021,"Wankhede Stadium, Mumbai",LSG,Bowl,Win,120.0
+M_0013,MS Dhoni,CSK,LSG,36,22,0,3,1,2021,"Narendra Modi Stadium, Ahmedabad",CSK,Bat,Lose,163.64
+M_0013,KL Rahul,LSG,CSK,4,3,0,0,0,2021,"Narendra Modi Stadium, Ahmedabad",CSK,Bat,Win,133.33
+M_0013,Ravindra Jadeja,CSK,LSG,29,21,1,3,0,2021,"Narendra Modi Stadium, Ahmedabad",CSK,Bat,Lose,138.1
+M_0014,KL Rahul,LSG,KKR,70,69,0,5,0,2021,"MA Chidambaram Stadium, Chennai",LSG,Bat,Win,101.45
+M_0014,Rinku Singh,KKR,LSG,25,16,0,3,0,2021,"MA Chidambaram Stadium, Chennai",LSG,Bat,Lose,156.25
+M_0015,Rinku Singh,KKR,RR,39,29,0,4,0,2021,"MA Chidambaram Stadium, Chennai",KKR,Bat,Lose,134.48
+M_0015,Yuzvendra Chahal,RR,KKR,0,0,1,0,0,2021,"MA Chidambaram Stadium, Chennai",KKR,Bat,Win,0.0
+M_0016,Rohit Sharma,MI,RR,20,14,0,2,0,2021,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Lose,142.86
+M_0016,Suryakumar Yadav,MI,RR,11,6,0,1,0,2021,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Lose,183.33
+M_0016,Hardik Pandya,MI,RR,51,40,0,3,1,2021,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Lose,127.5
+M_0016,Jasprit Bumrah,MI,RR,6,4,4,0,0,2021,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Lose,150.0
+M_0016,Yuzvendra Chahal,RR,MI,3,3,3,0,0,2021,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Win,100.0
+M_0017,Virat Kohli,RCB,RR,76,55,0,6,1,2021,"Eden Gardens, Kolkata",RR,Bowl,Lose,138.18
+M_0017,Yuzvendra Chahal,RR,RCB,3,6,2,0,0,2021,"Eden Gardens, Kolkata",RR,Bowl,Win,50.0
+M_0018,Rohit Sharma,MI,CSK,6,6,0,0,0,2021,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Win,100.0
+M_0018,MS Dhoni,CSK,MI,14,10,0,1,0,2021,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Lose,140.0
+M_0018,Suryakumar Yadav,MI,CSK,34,22,0,2,1,2021,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Win,154.55
+M_0018,Ravindra Jadeja,CSK,MI,15,10,2,1,0,2021,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Lose,150.0
+M_0018,Hardik Pandya,MI,CSK,32,20,1,2,1,2021,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Win,160.0
+M_0018,Jasprit Bumrah,MI,CSK,2,3,0,0,0,2021,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Win,66.67
+M_0019,MS Dhoni,CSK,LSG,29,18,0,2,1,2021,"Narendra Modi Stadium, Ahmedabad",LSG,Bowl,Lose,161.11
+M_0019,KL Rahul,LSG,CSK,62,51,0,5,0,2021,"Narendra Modi Stadium, Ahmedabad",LSG,Bowl,Win,121.57
+M_0019,Ravindra Jadeja,CSK,LSG,0,0,2,0,0,2021,"Narendra Modi Stadium, Ahmedabad",LSG,Bowl,Lose,0.0
+M_0020,Virat Kohli,RCB,RR,52,38,0,5,0,2021,"Eden Gardens, Kolkata",RCB,Bowl,Lose,136.84
+M_0020,Yuzvendra Chahal,RR,RCB,2,2,1,0,0,2021,"Eden Gardens, Kolkata",RCB,Bowl,Win,100.0
+M_0021,KL Rahul,LSG,RR,21,18,0,1,0,2021,"Wankhede Stadium, Mumbai",RR,Bowl,Win,116.67
+M_0021,Yuzvendra Chahal,RR,LSG,0,0,0,0,0,2021,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,0.0
+M_0022,Shubman Gill,GT,RR,27,21,0,2,0,2021,"M. Chinnaswamy Stadium, Bengaluru",RR,Bowl,Lose,128.57
+M_0022,Rashid Khan,GT,RR,14,8,2,1,0,2021,"M. Chinnaswamy Stadium, Bengaluru",RR,Bowl,Lose,175.0
+M_0022,Yuzvendra Chahal,RR,GT,0,0,4,0,0,2021,"M. Chinnaswamy Stadium, Bengaluru",RR,Bowl,Win,0.0
+M_0023,KL Rahul,LSG,KKR,54,39,0,5,0,2021,"Eden Gardens, Kolkata",LSG,Bat,Win,138.46
+M_0023,Rinku Singh,KKR,LSG,0,0,0,0,0,2021,"Eden Gardens, Kolkata",LSG,Bat,Lose,0.0
+M_0024,MS Dhoni,CSK,LSG,24,13,0,3,0,2021,"MA Chidambaram Stadium, Chennai",CSK,Bat,Lose,184.62
+M_0024,KL Rahul,LSG,CSK,75,74,0,5,0,2021,"MA Chidambaram Stadium, Chennai",CSK,Bat,Win,101.35
+M_0024,Ravindra Jadeja,CSK,LSG,14,8,3,1,0,2021,"MA Chidambaram Stadium, Chennai",CSK,Bat,Lose,175.0
+M_0025,Virat Kohli,RCB,RR,13,9,0,1,0,2021,"Eden Gardens, Kolkata",RCB,Bat,Win,144.44
+M_0025,Yuzvendra Chahal,RR,RCB,0,0,0,0,0,2021,"Eden Gardens, Kolkata",RCB,Bat,Lose,0.0
+M_0026,MS Dhoni,CSK,RR,17,10,0,2,0,2022,"M. Chinnaswamy Stadium, Bengaluru",CSK,Bat,Win,170.0
+M_0026,Ravindra Jadeja,CSK,RR,13,10,0,1,0,2022,"M. Chinnaswamy Stadium, Bengaluru",CSK,Bat,Win,130.0
+M_0026,Yuzvendra Chahal,RR,CSK,3,3,2,0,0,2022,"M. Chinnaswamy Stadium, Bengaluru",CSK,Bat,Lose,100.0
+M_0027,Virat Kohli,RCB,LSG,66,47,0,5,1,2022,"Narendra Modi Stadium, Ahmedabad",LSG,Bowl,Lose,140.43
+M_0027,KL Rahul,LSG,RCB,15,11,0,1,0,2022,"Narendra Modi Stadium, Ahmedabad",LSG,Bowl,Win,136.36
+M_0028,KL Rahul,LSG,KKR,47,33,0,5,0,2022,"Eden Gardens, Kolkata",LSG,Bowl,Lose,142.42
+M_0028,Rinku Singh,KKR,LSG,38,25,0,4,0,2022,"Eden Gardens, Kolkata",LSG,Bowl,Win,152.0
+M_0029,Virat Kohli,RCB,RR,44,30,0,5,0,2022,"Wankhede Stadium, Mumbai",RR,Bowl,Win,146.67
+M_0029,Yuzvendra Chahal,RR,RCB,0,0,0,0,0,2022,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,0.0
+M_0030,Virat Kohli,RCB,KKR,0,0,0,0,0,2022,"Narendra Modi Stadium, Ahmedabad",KKR,Bat,Lose,0.0
+M_0030,Rinku Singh,KKR,RCB,13,8,0,1,0,2022,"Narendra Modi Stadium, Ahmedabad",KKR,Bat,Win,162.5
+M_0031,Rohit Sharma,MI,CSK,54,41,0,5,0,2022,"Eden Gardens, Kolkata",CSK,Bat,Lose,131.71
+M_0031,MS Dhoni,CSK,MI,30,22,0,3,0,2022,"Eden Gardens, Kolkata",CSK,Bat,Win,136.36
+M_0031,Suryakumar Yadav,MI,CSK,45,27,0,4,1,2022,"Eden Gardens, Kolkata",CSK,Bat,Lose,166.67
+M_0031,Ravindra Jadeja,CSK,MI,26,18,1,2,0,2022,"Eden Gardens, Kolkata",CSK,Bat,Win,144.44
+M_0031,Hardik Pandya,MI,CSK,25,17,4,2,0,2022,"Eden Gardens, Kolkata",CSK,Bat,Lose,147.06
+M_0031,Jasprit Bumrah,MI,CSK,5,5,0,0,0,2022,"Eden Gardens, Kolkata",CSK,Bat,Lose,100.0
+M_0032,Rohit Sharma,MI,CSK,1,1,0,0,0,2022,"Wankhede Stadium, Mumbai",MI,Bowl,Lose,100.0
+M_0032,MS Dhoni,CSK,MI,21,12,0,2,0,2022,"Wankhede Stadium, Mumbai",MI,Bowl,Win,175.0
+M_0032,Suryakumar Yadav,MI,CSK,25,14,0,3,0,2022,"Wankhede Stadium, Mumbai",MI,Bowl,Lose,178.57
+M_0032,Ravindra Jadeja,CSK,MI,45,50,4,2,0,2022,"Wankhede Stadium, Mumbai",MI,Bowl,Win,90.0
+M_0032,Hardik Pandya,MI,CSK,13,9,1,1,0,2022,"Wankhede Stadium, Mumbai",MI,Bowl,Lose,144.44
+M_0032,Jasprit Bumrah,MI,CSK,0,0,2,0,0,2022,"Wankhede Stadium, Mumbai",MI,Bowl,Lose,0.0
+M_0033,Virat Kohli,RCB,GT,54,50,0,4,0,2022,"Eden Gardens, Kolkata",GT,Bowl,Lose,108.0
+M_0033,Shubman Gill,GT,RCB,42,31,0,4,0,2022,"Eden Gardens, Kolkata",GT,Bowl,Win,135.48
+M_0033,Rashid Khan,GT,RCB,4,2,1,0,0,2022,"Eden Gardens, Kolkata",GT,Bowl,Win,200.0
+M_0034,Virat Kohli,RCB,RR,8,6,0,0,0,2022,"MA Chidambaram Stadium, Chennai",RR,Bat,Win,133.33
+M_0034,Yuzvendra Chahal,RR,RCB,0,0,1,0,0,2022,"MA Chidambaram Stadium, Chennai",RR,Bat,Lose,0.0
+M_0035,Rinku Singh,KKR,RR,18,12,0,2,0,2022,"M. Chinnaswamy Stadium, Bengaluru",RR,Bowl,Lose,150.0
+M_0035,Yuzvendra Chahal,RR,KKR,1,1,0,0,0,2022,"M. Chinnaswamy Stadium, Bengaluru",RR,Bowl,Win,100.0
+M_0036,MS Dhoni,CSK,KKR,56,34,0,5,1,2022,"Wankhede Stadium, Mumbai",KKR,Bat,Win,164.71
+M_0036,Ravindra Jadeja,CSK,KKR,23,15,2,2,0,2022,"Wankhede Stadium, Mumbai",KKR,Bat,Win,153.33
+M_0036,Rinku Singh,KKR,CSK,15,9,0,1,0,2022,"Wankhede Stadium, Mumbai",KKR,Bat,Lose,166.67
+M_0037,Rohit Sharma,MI,CSK,41,32,0,3,0,2022,"MA Chidambaram Stadium, Chennai",MI,Bat,Win,128.12
+M_0037,MS Dhoni,CSK,MI,34,26,0,3,0,2022,"MA Chidambaram Stadium, Chennai",MI,Bat,Lose,130.77
+M_0037,Suryakumar Yadav,MI,CSK,42,26,0,3,1,2022,"MA Chidambaram Stadium, Chennai",MI,Bat,Win,161.54
+M_0037,Ravindra Jadeja,CSK,MI,0,0,1,0,0,2022,"MA Chidambaram Stadium, Chennai",MI,Bat,Lose,0.0
+M_0037,Hardik Pandya,MI,CSK,0,0,1,0,0,2022,"MA Chidambaram Stadium, Chennai",MI,Bat,Win,0.0
+M_0037,Jasprit Bumrah,MI,CSK,1,1,2,0,0,2022,"MA Chidambaram Stadium, Chennai",MI,Bat,Win,100.0
+M_0038,Shubman Gill,GT,RR,38,38,0,2,0,2022,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,100.0
+M_0038,Rashid Khan,GT,RR,22,14,1,2,0,2022,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,157.14
+M_0038,Yuzvendra Chahal,RR,GT,7,7,3,0,0,2022,"Wankhede Stadium, Mumbai",RR,Bowl,Win,100.0
+M_0039,Virat Kohli,RCB,GT,1,1,0,0,0,2022,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Win,100.0
+M_0039,Shubman Gill,GT,RCB,3,2,0,0,0,2022,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Lose,150.0
+M_0039,Rashid Khan,GT,RCB,10,7,1,1,0,2022,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Lose,142.86
+M_0040,Rohit Sharma,MI,RR,8,5,0,0,0,2022,"M. Chinnaswamy Stadium, Bengaluru",MI,Bowl,Lose,160.0
+M_0040,Suryakumar Yadav,MI,RR,12,8,0,1,0,2022,"M. Chinnaswamy Stadium, Bengaluru",MI,Bowl,Lose,150.0
+M_0040,Hardik Pandya,MI,RR,75,68,3,4,1,2022,"M. Chinnaswamy Stadium, Bengaluru",MI,Bowl,Lose,110.29
+M_0040,Jasprit Bumrah,MI,RR,5,6,1,0,0,2022,"M. Chinnaswamy Stadium, Bengaluru",MI,Bowl,Lose,83.33
+M_0040,Yuzvendra Chahal,RR,MI,0,0,3,0,0,2022,"M. Chinnaswamy Stadium, Bengaluru",MI,Bowl,Win,0.0
+M_0041,MS Dhoni,CSK,GT,0,0,0,0,0,2022,"Eden Gardens, Kolkata",GT,Bat,Win,0.0
+M_0041,Shubman Gill,GT,CSK,36,24,0,4,0,2022,"Eden Gardens, Kolkata",GT,Bat,Lose,150.0
+M_0041,Ravindra Jadeja,CSK,GT,17,10,1,2,0,2022,"Eden Gardens, Kolkata",GT,Bat,Win,170.0
+M_0041,Rashid Khan,GT,CSK,4,3,0,0,0,2022,"Eden Gardens, Kolkata",GT,Bat,Lose,133.33
+M_0042,MS Dhoni,CSK,GT,52,31,0,5,1,2022,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Lose,167.74
+M_0042,Shubman Gill,GT,CSK,72,45,0,7,1,2022,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Win,160.0
+M_0042,Ravindra Jadeja,CSK,GT,21,13,1,2,0,2022,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Lose,161.54
+M_0042,Rashid Khan,GT,CSK,2,1,3,0,0,2022,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Win,200.0
+M_0043,Rohit Sharma,MI,LSG,57,34,0,6,1,2022,"Eden Gardens, Kolkata",LSG,Bat,Lose,167.65
+M_0043,Suryakumar Yadav,MI,LSG,64,37,0,5,2,2022,"Eden Gardens, Kolkata",LSG,Bat,Lose,172.97
+M_0043,KL Rahul,LSG,MI,42,32,0,4,0,2022,"Eden Gardens, Kolkata",LSG,Bat,Win,131.25
+M_0043,Hardik Pandya,MI,LSG,18,15,0,1,0,2022,"Eden Gardens, Kolkata",LSG,Bat,Lose,120.0
+M_0043,Jasprit Bumrah,MI,LSG,3,3,2,0,0,2022,"Eden Gardens, Kolkata",LSG,Bat,Lose,100.0
+M_0044,Rohit Sharma,MI,LSG,23,14,0,2,0,2022,"Wankhede Stadium, Mumbai",LSG,Bat,Lose,164.29
+M_0044,Suryakumar Yadav,MI,LSG,26,16,0,3,0,2022,"Wankhede Stadium, Mumbai",LSG,Bat,Lose,162.5
+M_0044,KL Rahul,LSG,MI,67,40,0,7,1,2022,"Wankhede Stadium, Mumbai",LSG,Bat,Win,167.5
+M_0044,Hardik Pandya,MI,LSG,39,29,0,2,1,2022,"Wankhede Stadium, Mumbai",LSG,Bat,Lose,134.48
+M_0044,Jasprit Bumrah,MI,LSG,6,6,0,0,0,2022,"Wankhede Stadium, Mumbai",LSG,Bat,Lose,100.0
+M_0045,Virat Kohli,RCB,GT,52,36,0,5,0,2022,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Lose,144.44
+M_0045,Shubman Gill,GT,RCB,38,27,0,4,0,2022,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Win,140.74
+M_0045,Rashid Khan,GT,RCB,10,6,1,1,0,2022,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Win,166.67
+M_0046,MS Dhoni,CSK,RR,15,8,0,2,0,2022,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,187.5
+M_0046,Ravindra Jadeja,CSK,RR,23,16,0,2,0,2022,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,143.75
+M_0046,Yuzvendra Chahal,RR,CSK,4,5,0,0,0,2022,"Wankhede Stadium, Mumbai",RR,Bowl,Win,80.0
+M_0047,Rinku Singh,KKR,RR,54,49,0,4,0,2022,"MA Chidambaram Stadium, Chennai",KKR,Bat,Win,110.2
+M_0047,Yuzvendra Chahal,RR,KKR,1,1,0,0,0,2022,"MA Chidambaram Stadium, Chennai",KKR,Bat,Lose,100.0
+M_0048,MS Dhoni,CSK,GT,0,0,0,0,0,2022,"MA Chidambaram Stadium, Chennai",GT,Bowl,Win,0.0
+M_0048,Shubman Gill,GT,CSK,77,53,0,7,1,2022,"MA Chidambaram Stadium, Chennai",GT,Bowl,Lose,145.28
+M_0048,Ravindra Jadeja,CSK,GT,2,2,1,0,0,2022,"MA Chidambaram Stadium, Chennai",GT,Bowl,Win,100.0
+M_0048,Rashid Khan,GT,CSK,1,1,0,0,0,2022,"MA Chidambaram Stadium, Chennai",GT,Bowl,Lose,100.0
+M_0049,Virat Kohli,RCB,LSG,54,44,0,5,0,2022,"Eden Gardens, Kolkata",LSG,Bat,Win,122.73
+M_0049,KL Rahul,LSG,RCB,55,39,0,4,1,2022,"Eden Gardens, Kolkata",LSG,Bat,Lose,141.03
+M_0050,Shubman Gill,GT,RR,2,1,0,0,0,2022,"MA Chidambaram Stadium, Chennai",GT,Bat,Lose,200.0
+M_0050,Rashid Khan,GT,RR,11,6,1,1,0,2022,"MA Chidambaram Stadium, Chennai",GT,Bat,Lose,183.33
+M_0050,Yuzvendra Chahal,RR,GT,5,10,1,0,0,2022,"MA Chidambaram Stadium, Chennai",GT,Bat,Win,50.0
+M_0051,Rohit Sharma,MI,RR,48,31,0,5,0,2023,"Wankhede Stadium, Mumbai",RR,Bat,Lose,154.84
+M_0051,Suryakumar Yadav,MI,RR,52,35,0,4,1,2023,"Wankhede Stadium, Mumbai",RR,Bat,Lose,148.57
+M_0051,Hardik Pandya,MI,RR,4,3,3,0,0,2023,"Wankhede Stadium, Mumbai",RR,Bat,Lose,133.33
+M_0051,Jasprit Bumrah,MI,RR,3,3,0,0,0,2023,"Wankhede Stadium, Mumbai",RR,Bat,Lose,100.0
+M_0051,Yuzvendra Chahal,RR,MI,1,1,2,0,0,2023,"Wankhede Stadium, Mumbai",RR,Bat,Win,100.0
+M_0052,KL Rahul,LSG,RR,18,13,0,1,0,2023,"MA Chidambaram Stadium, Chennai",LSG,Bowl,Win,138.46
+M_0052,Yuzvendra Chahal,RR,LSG,4,8,1,0,0,2023,"MA Chidambaram Stadium, Chennai",LSG,Bowl,Lose,50.0
+M_0053,MS Dhoni,CSK,LSG,6,4,0,0,0,2023,"Narendra Modi Stadium, Ahmedabad",LSG,Bowl,Lose,150.0
+M_0053,KL Rahul,LSG,CSK,79,60,0,6,1,2023,"Narendra Modi Stadium, Ahmedabad",LSG,Bowl,Win,131.67
+M_0053,Ravindra Jadeja,CSK,LSG,29,19,2,3,0,2023,"Narendra Modi Stadium, Ahmedabad",LSG,Bowl,Lose,152.63
+M_0054,MS Dhoni,CSK,GT,28,22,0,2,0,2023,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Lose,127.27
+M_0054,Shubman Gill,GT,CSK,70,54,0,5,1,2023,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Win,129.63
+M_0054,Ravindra Jadeja,CSK,GT,26,18,2,2,0,2023,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Lose,144.44
+M_0054,Rashid Khan,GT,CSK,3,2,3,0,0,2023,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Win,150.0
+M_0055,MS Dhoni,CSK,GT,5,3,0,0,0,2023,"Wankhede Stadium, Mumbai",CSK,Bat,Lose,166.67
+M_0055,Shubman Gill,GT,CSK,72,52,0,6,1,2023,"Wankhede Stadium, Mumbai",CSK,Bat,Win,138.46
+M_0055,Ravindra Jadeja,CSK,GT,36,23,3,4,0,2023,"Wankhede Stadium, Mumbai",CSK,Bat,Lose,156.52
+M_0055,Rashid Khan,GT,CSK,8,5,0,1,0,2023,"Wankhede Stadium, Mumbai",CSK,Bat,Win,160.0
+M_0056,Rohit Sharma,MI,RR,35,26,0,3,0,2023,"Eden Gardens, Kolkata",RR,Bat,Lose,134.62
+M_0056,Suryakumar Yadav,MI,RR,16,8,0,2,0,2023,"Eden Gardens, Kolkata",RR,Bat,Lose,200.0
+M_0056,Hardik Pandya,MI,RR,0,0,0,0,0,2023,"Eden Gardens, Kolkata",RR,Bat,Lose,0.0
+M_0056,Jasprit Bumrah,MI,RR,3,2,3,0,0,2023,"Eden Gardens, Kolkata",RR,Bat,Lose,150.0
+M_0056,Yuzvendra Chahal,RR,MI,1,1,3,0,0,2023,"Eden Gardens, Kolkata",RR,Bat,Win,100.0
+M_0057,Rohit Sharma,MI,KKR,38,27,0,4,0,2023,"MA Chidambaram Stadium, Chennai",MI,Bowl,Lose,140.74
+M_0057,Suryakumar Yadav,MI,KKR,62,33,0,6,2,2023,"MA Chidambaram Stadium, Chennai",MI,Bowl,Lose,187.88
+M_0057,Hardik Pandya,MI,KKR,12,9,4,1,0,2023,"MA Chidambaram Stadium, Chennai",MI,Bowl,Lose,133.33
+M_0057,Jasprit Bumrah,MI,KKR,2,4,1,0,0,2023,"MA Chidambaram Stadium, Chennai",MI,Bowl,Lose,50.0
+M_0057,Rinku Singh,KKR,MI,24,17,0,2,0,2023,"MA Chidambaram Stadium, Chennai",MI,Bowl,Win,141.18
+M_0058,Rohit Sharma,MI,KKR,13,10,0,1,0,2023,"Wankhede Stadium, Mumbai",MI,Bat,Win,130.0
+M_0058,Suryakumar Yadav,MI,KKR,23,13,0,3,0,2023,"Wankhede Stadium, Mumbai",MI,Bat,Win,176.92
+M_0058,Hardik Pandya,MI,KKR,34,23,4,2,1,2023,"Wankhede Stadium, Mumbai",MI,Bat,Win,147.83
+M_0058,Jasprit Bumrah,MI,KKR,0,0,2,0,0,2023,"Wankhede Stadium, Mumbai",MI,Bat,Win,0.0
+M_0058,Rinku Singh,KKR,MI,27,19,0,2,0,2023,"Wankhede Stadium, Mumbai",MI,Bat,Lose,142.11
+M_0059,Shubman Gill,GT,RR,110,77,0,9,2,2023,"Eden Gardens, Kolkata",GT,Bat,Lose,142.86
+M_0059,Rashid Khan,GT,RR,8,5,3,0,0,2023,"Eden Gardens, Kolkata",GT,Bat,Lose,160.0
+M_0059,Yuzvendra Chahal,RR,GT,1,2,1,0,0,2023,"Eden Gardens, Kolkata",GT,Bat,Win,50.0
+M_0060,Rohit Sharma,MI,CSK,30,22,0,3,0,2023,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Lose,136.36
+M_0060,MS Dhoni,CSK,MI,11,6,0,1,0,2023,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Win,183.33
+M_0060,Suryakumar Yadav,MI,CSK,32,19,0,2,1,2023,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Lose,168.42
+M_0060,Ravindra Jadeja,CSK,MI,31,22,0,3,0,2023,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Win,140.91
+M_0060,Hardik Pandya,MI,CSK,48,33,1,3,1,2023,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Lose,145.45
+M_0060,Jasprit Bumrah,MI,CSK,3,3,2,0,0,2023,"MA Chidambaram Stadium, Chennai",CSK,Bowl,Lose,100.0
+M_0061,KL Rahul,LSG,RR,63,55,0,5,0,2023,"Wankhede Stadium, Mumbai",LSG,Bowl,Win,114.55
+M_0061,Yuzvendra Chahal,RR,LSG,4,4,3,0,0,2023,"Wankhede Stadium, Mumbai",LSG,Bowl,Lose,100.0
+M_0062,Rohit Sharma,MI,CSK,47,41,0,4,0,2023,"Eden Gardens, Kolkata",MI,Bowl,Win,114.63
+M_0062,MS Dhoni,CSK,MI,4,2,0,0,0,2023,"Eden Gardens, Kolkata",MI,Bowl,Lose,200.0
+M_0062,Suryakumar Yadav,MI,CSK,52,26,0,5,2,2023,"Eden Gardens, Kolkata",MI,Bowl,Win,200.0
+M_0062,Ravindra Jadeja,CSK,MI,16,11,3,1,0,2023,"Eden Gardens, Kolkata",MI,Bowl,Lose,145.45
+M_0062,Hardik Pandya,MI,CSK,41,27,0,3,1,2023,"Eden Gardens, Kolkata",MI,Bowl,Win,151.85
+M_0062,Jasprit Bumrah,MI,CSK,11,12,2,0,0,2023,"Eden Gardens, Kolkata",MI,Bowl,Win,91.67
+M_0063,Virat Kohli,RCB,KKR,53,43,0,5,0,2023,"MA Chidambaram Stadium, Chennai",KKR,Bowl,Lose,123.26
+M_0063,Rinku Singh,KKR,RCB,64,51,0,4,1,2023,"MA Chidambaram Stadium, Chennai",KKR,Bowl,Win,125.49
+M_0064,MS Dhoni,CSK,RR,47,31,0,4,1,2023,"MA Chidambaram Stadium, Chennai",RR,Bowl,Lose,151.61
+M_0064,Ravindra Jadeja,CSK,RR,0,0,1,0,0,2023,"MA Chidambaram Stadium, Chennai",RR,Bowl,Lose,0.0
+M_0064,Yuzvendra Chahal,RR,CSK,3,3,1,0,0,2023,"MA Chidambaram Stadium, Chennai",RR,Bowl,Win,100.0
+M_0065,Virat Kohli,RCB,RR,38,24,0,4,0,2023,"Narendra Modi Stadium, Ahmedabad",RR,Bat,Win,158.33
+M_0065,Yuzvendra Chahal,RR,RCB,0,0,2,0,0,2023,"Narendra Modi Stadium, Ahmedabad",RR,Bat,Lose,0.0
+M_0066,Virat Kohli,RCB,GT,57,41,0,4,1,2023,"MA Chidambaram Stadium, Chennai",RCB,Bowl,Lose,139.02
+M_0066,Shubman Gill,GT,RCB,56,39,0,4,1,2023,"MA Chidambaram Stadium, Chennai",RCB,Bowl,Win,143.59
+M_0066,Rashid Khan,GT,RCB,11,7,2,1,0,2023,"MA Chidambaram Stadium, Chennai",RCB,Bowl,Win,157.14
+M_0067,KL Rahul,LSG,KKR,65,46,0,5,1,2023,"Wankhede Stadium, Mumbai",LSG,Bat,Win,141.3
+M_0067,Rinku Singh,KKR,LSG,0,0,0,0,0,2023,"Wankhede Stadium, Mumbai",LSG,Bat,Lose,0.0
+M_0068,MS Dhoni,CSK,KKR,25,18,0,2,0,2023,"MA Chidambaram Stadium, Chennai",CSK,Bat,Lose,138.89
+M_0068,Ravindra Jadeja,CSK,KKR,21,15,2,2,0,2023,"MA Chidambaram Stadium, Chennai",CSK,Bat,Lose,140.0
+M_0068,Rinku Singh,KKR,CSK,9,7,0,0,0,2023,"MA Chidambaram Stadium, Chennai",CSK,Bat,Win,128.57
+M_0069,Rinku Singh,KKR,RR,30,18,0,3,0,2023,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bat,Lose,166.67
+M_0069,Yuzvendra Chahal,RR,KKR,0,0,2,0,0,2023,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bat,Win,0.0
+M_0070,MS Dhoni,CSK,RR,34,20,0,2,1,2023,"Wankhede Stadium, Mumbai",CSK,Bowl,Win,170.0
+M_0070,Ravindra Jadeja,CSK,RR,33,20,0,4,0,2023,"Wankhede Stadium, Mumbai",CSK,Bowl,Win,165.0
+M_0070,Yuzvendra Chahal,RR,CSK,4,6,2,0,0,2023,"Wankhede Stadium, Mumbai",CSK,Bowl,Lose,66.67
+M_0071,MS Dhoni,CSK,GT,9,6,0,1,0,2023,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Win,150.0
+M_0071,Shubman Gill,GT,CSK,60,39,0,5,1,2023,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Lose,153.85
+M_0071,Ravindra Jadeja,CSK,GT,74,53,1,6,1,2023,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Win,139.62
+M_0071,Rashid Khan,GT,CSK,30,20,0,3,0,2023,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Lose,150.0
+M_0072,Rohit Sharma,MI,RR,34,25,0,3,0,2023,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,136.0
+M_0072,Suryakumar Yadav,MI,RR,49,26,0,5,1,2023,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,188.46
+M_0072,Hardik Pandya,MI,RR,44,30,1,3,1,2023,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,146.67
+M_0072,Jasprit Bumrah,MI,RR,3,2,0,0,0,2023,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,150.0
+M_0072,Yuzvendra Chahal,RR,MI,1,1,3,0,0,2023,"Wankhede Stadium, Mumbai",RR,Bowl,Win,100.0
+M_0073,MS Dhoni,CSK,GT,51,31,0,4,1,2023,"Eden Gardens, Kolkata",GT,Bat,Lose,164.52
+M_0073,Shubman Gill,GT,CSK,50,39,0,4,0,2023,"Eden Gardens, Kolkata",GT,Bat,Win,128.21
+M_0073,Ravindra Jadeja,CSK,GT,10,7,0,1,0,2023,"Eden Gardens, Kolkata",GT,Bat,Lose,142.86
+M_0073,Rashid Khan,GT,CSK,24,13,1,3,0,2023,"Eden Gardens, Kolkata",GT,Bat,Win,184.62
+M_0074,MS Dhoni,CSK,GT,52,29,0,5,1,2023,"MA Chidambaram Stadium, Chennai",GT,Bat,Lose,179.31
+M_0074,Shubman Gill,GT,CSK,6,5,0,0,0,2023,"MA Chidambaram Stadium, Chennai",GT,Bat,Win,120.0
+M_0074,Ravindra Jadeja,CSK,GT,29,21,1,3,0,2023,"MA Chidambaram Stadium, Chennai",GT,Bat,Lose,138.1
+M_0074,Rashid Khan,GT,CSK,7,5,3,0,0,2023,"MA Chidambaram Stadium, Chennai",GT,Bat,Win,140.0
+M_0075,Virat Kohli,RCB,LSG,60,48,0,5,0,2023,"Eden Gardens, Kolkata",RCB,Bat,Win,125.0
+M_0075,KL Rahul,LSG,RCB,95,63,0,9,1,2023,"Eden Gardens, Kolkata",RCB,Bat,Lose,150.79
+M_0076,Virat Kohli,RCB,CSK,114,93,0,9,1,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bat,Lose,122.58
+M_0076,MS Dhoni,CSK,RCB,17,11,0,2,0,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bat,Win,154.55
+M_0076,Ravindra Jadeja,CSK,RCB,6,5,1,0,0,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bat,Win,120.0
+M_0077,Rinku Singh,KKR,RR,59,35,0,6,1,2024,"MA Chidambaram Stadium, Chennai",KKR,Bat,Win,168.57
+M_0077,Yuzvendra Chahal,RR,KKR,0,0,2,0,0,2024,"MA Chidambaram Stadium, Chennai",KKR,Bat,Lose,0.0
+M_0078,Rohit Sharma,MI,RR,12,9,0,1,0,2024,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Win,133.33
+M_0078,Suryakumar Yadav,MI,RR,37,22,0,3,1,2024,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Win,168.18
+M_0078,Hardik Pandya,MI,RR,31,22,4,3,0,2024,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Win,140.91
+M_0078,Jasprit Bumrah,MI,RR,4,4,1,0,0,2024,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Win,100.0
+M_0078,Yuzvendra Chahal,RR,MI,0,0,1,0,0,2024,"M. Chinnaswamy Stadium, Bengaluru",RR,Bat,Lose,0.0
+M_0079,KL Rahul,LSG,KKR,39,27,0,4,0,2024,"Eden Gardens, Kolkata",LSG,Bat,Lose,144.44
+M_0079,Rinku Singh,KKR,LSG,51,39,0,5,0,2024,"Eden Gardens, Kolkata",LSG,Bat,Win,130.77
+M_0080,Virat Kohli,RCB,KKR,76,68,0,4,1,2024,"MA Chidambaram Stadium, Chennai",RCB,Bat,Win,111.76
+M_0080,Rinku Singh,KKR,RCB,54,31,0,5,1,2024,"MA Chidambaram Stadium, Chennai",RCB,Bat,Lose,174.19
+M_0081,Shubman Gill,GT,LSG,87,58,0,8,1,2024,"Wankhede Stadium, Mumbai",LSG,Bowl,Lose,150.0
+M_0081,KL Rahul,LSG,GT,27,17,0,3,0,2024,"Wankhede Stadium, Mumbai",LSG,Bowl,Win,158.82
+M_0081,Rashid Khan,GT,LSG,5,3,1,0,0,2024,"Wankhede Stadium, Mumbai",LSG,Bowl,Lose,166.67
+M_0082,Virat Kohli,RCB,KKR,80,54,0,7,1,2024,"Eden Gardens, Kolkata",RCB,Bowl,Win,148.15
+M_0082,Rinku Singh,KKR,RCB,0,0,0,0,0,2024,"Eden Gardens, Kolkata",RCB,Bowl,Lose,0.0
+M_0083,Rohit Sharma,MI,LSG,66,49,0,5,1,2024,"Narendra Modi Stadium, Ahmedabad",LSG,Bat,Lose,134.69
+M_0083,Suryakumar Yadav,MI,LSG,50,35,0,4,1,2024,"Narendra Modi Stadium, Ahmedabad",LSG,Bat,Lose,142.86
+M_0083,KL Rahul,LSG,MI,43,38,0,3,0,2024,"Narendra Modi Stadium, Ahmedabad",LSG,Bat,Win,113.16
+M_0083,Hardik Pandya,MI,LSG,3,2,0,0,0,2024,"Narendra Modi Stadium, Ahmedabad",LSG,Bat,Lose,150.0
+M_0083,Jasprit Bumrah,MI,LSG,3,2,1,0,0,2024,"Narendra Modi Stadium, Ahmedabad",LSG,Bat,Lose,150.0
+M_0084,Virat Kohli,RCB,CSK,30,22,0,3,0,2024,"Narendra Modi Stadium, Ahmedabad",RCB,Bat,Win,136.36
+M_0084,MS Dhoni,CSK,RCB,47,31,0,4,1,2024,"Narendra Modi Stadium, Ahmedabad",RCB,Bat,Lose,151.61
+M_0084,Ravindra Jadeja,CSK,RCB,11,8,3,1,0,2024,"Narendra Modi Stadium, Ahmedabad",RCB,Bat,Lose,137.5
+M_0085,MS Dhoni,CSK,KKR,28,18,0,3,0,2024,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bowl,Win,155.56
+M_0085,Ravindra Jadeja,CSK,KKR,0,0,0,0,0,2024,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bowl,Win,0.0
+M_0085,Rinku Singh,KKR,CSK,42,27,0,5,0,2024,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bowl,Lose,155.56
+M_0086,Virat Kohli,RCB,RR,63,52,0,5,0,2024,"M. Chinnaswamy Stadium, Bengaluru",RCB,Bat,Lose,121.15
+M_0086,Yuzvendra Chahal,RR,RCB,0,0,0,0,0,2024,"M. Chinnaswamy Stadium, Bengaluru",RCB,Bat,Win,0.0
+M_0087,Rohit Sharma,MI,LSG,38,28,0,4,0,2024,"Wankhede Stadium, Mumbai",LSG,Bat,Lose,135.71
+M_0087,Suryakumar Yadav,MI,LSG,19,10,0,2,0,2024,"Wankhede Stadium, Mumbai",LSG,Bat,Lose,190.0
+M_0087,KL Rahul,LSG,MI,92,77,0,6,1,2024,"Wankhede Stadium, Mumbai",LSG,Bat,Win,119.48
+M_0087,Hardik Pandya,MI,LSG,40,22,0,4,1,2024,"Wankhede Stadium, Mumbai",LSG,Bat,Lose,181.82
+M_0087,Jasprit Bumrah,MI,LSG,0,0,0,0,0,2024,"Wankhede Stadium, Mumbai",LSG,Bat,Lose,0.0
+M_0088,Virat Kohli,RCB,LSG,62,42,0,5,1,2024,"Wankhede Stadium, Mumbai",LSG,Bowl,Lose,147.62
+M_0088,KL Rahul,LSG,RCB,8,6,0,0,0,2024,"Wankhede Stadium, Mumbai",LSG,Bowl,Win,133.33
+M_0089,Virat Kohli,RCB,GT,96,69,0,8,1,2024,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Win,139.13
+M_0089,Shubman Gill,GT,RCB,46,37,0,4,0,2024,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Lose,124.32
+M_0089,Rashid Khan,GT,RCB,30,18,0,3,0,2024,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Lose,166.67
+M_0090,MS Dhoni,CSK,RR,11,8,0,1,0,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bowl,Lose,137.5
+M_0090,Ravindra Jadeja,CSK,RR,17,11,0,2,0,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bowl,Lose,154.55
+M_0090,Yuzvendra Chahal,RR,CSK,2,2,0,0,0,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bowl,Win,100.0
+M_0091,Rinku Singh,KKR,RR,17,13,0,1,0,2024,"M. Chinnaswamy Stadium, Bengaluru",RR,Bowl,Lose,130.77
+M_0091,Yuzvendra Chahal,RR,KKR,0,0,1,0,0,2024,"M. Chinnaswamy Stadium, Bengaluru",RR,Bowl,Win,0.0
+M_0092,Virat Kohli,RCB,CSK,47,32,1,5,0,2024,"M. Chinnaswamy Stadium, Bengaluru",CSK,Bowl,Lose,146.88
+M_0092,MS Dhoni,CSK,RCB,27,18,0,3,0,2024,"M. Chinnaswamy Stadium, Bengaluru",CSK,Bowl,Win,150.0
+M_0092,Ravindra Jadeja,CSK,RCB,38,28,3,3,0,2024,"M. Chinnaswamy Stadium, Bengaluru",CSK,Bowl,Win,135.71
+M_0093,MS Dhoni,CSK,RR,42,26,0,3,1,2024,"MA Chidambaram Stadium, Chennai",RR,Bowl,Lose,161.54
+M_0093,Ravindra Jadeja,CSK,RR,21,13,2,2,0,2024,"MA Chidambaram Stadium, Chennai",RR,Bowl,Lose,161.54
+M_0093,Yuzvendra Chahal,RR,CSK,1,2,1,0,0,2024,"MA Chidambaram Stadium, Chennai",RR,Bowl,Win,50.0
+M_0094,MS Dhoni,CSK,GT,21,13,0,2,0,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bowl,Lose,161.54
+M_0094,Shubman Gill,GT,CSK,0,0,0,0,0,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bowl,Win,0.0
+M_0094,Ravindra Jadeja,CSK,GT,19,16,2,1,0,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bowl,Lose,118.75
+M_0094,Rashid Khan,GT,CSK,0,0,2,0,0,2024,"Narendra Modi Stadium, Ahmedabad",CSK,Bowl,Win,0.0
+M_0095,Rohit Sharma,MI,GT,43,34,0,4,0,2024,"MA Chidambaram Stadium, Chennai",GT,Bat,Lose,126.47
+M_0095,Shubman Gill,GT,MI,66,44,0,6,1,2024,"MA Chidambaram Stadium, Chennai",GT,Bat,Win,150.0
+M_0095,Suryakumar Yadav,MI,GT,72,48,0,5,2,2024,"MA Chidambaram Stadium, Chennai",GT,Bat,Lose,150.0
+M_0095,Hardik Pandya,MI,GT,42,32,0,2,1,2024,"MA Chidambaram Stadium, Chennai",GT,Bat,Lose,131.25
+M_0095,Rashid Khan,GT,MI,12,9,3,1,0,2024,"MA Chidambaram Stadium, Chennai",GT,Bat,Win,133.33
+M_0095,Jasprit Bumrah,MI,GT,4,3,1,0,0,2024,"MA Chidambaram Stadium, Chennai",GT,Bat,Lose,133.33
+M_0096,Rohit Sharma,MI,RR,0,0,0,0,0,2024,"MA Chidambaram Stadium, Chennai",MI,Bowl,Lose,0.0
+M_0096,Suryakumar Yadav,MI,RR,56,39,0,4,1,2024,"MA Chidambaram Stadium, Chennai",MI,Bowl,Lose,143.59
+M_0096,Hardik Pandya,MI,RR,51,33,0,4,1,2024,"MA Chidambaram Stadium, Chennai",MI,Bowl,Lose,154.55
+M_0096,Jasprit Bumrah,MI,RR,0,0,0,0,0,2024,"MA Chidambaram Stadium, Chennai",MI,Bowl,Lose,0.0
+M_0096,Yuzvendra Chahal,RR,MI,0,0,1,0,0,2024,"MA Chidambaram Stadium, Chennai",MI,Bowl,Win,0.0
+M_0097,Rohit Sharma,MI,KKR,52,50,0,4,0,2024,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bowl,Lose,104.0
+M_0097,Suryakumar Yadav,MI,KKR,27,14,0,2,1,2024,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bowl,Lose,192.86
+M_0097,Hardik Pandya,MI,KKR,23,17,1,2,0,2024,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bowl,Lose,135.29
+M_0097,Jasprit Bumrah,MI,KKR,1,1,1,0,0,2024,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bowl,Lose,100.0
+M_0097,Rinku Singh,KKR,MI,28,17,0,3,0,2024,"M. Chinnaswamy Stadium, Bengaluru",KKR,Bowl,Win,164.71
+M_0098,Virat Kohli,RCB,RR,61,50,0,5,0,2024,"Wankhede Stadium, Mumbai",RCB,Bat,Win,122.0
+M_0098,Yuzvendra Chahal,RR,RCB,2,3,0,0,0,2024,"Wankhede Stadium, Mumbai",RCB,Bat,Lose,66.67
+M_0099,Shubman Gill,GT,KKR,48,40,0,4,0,2024,"Narendra Modi Stadium, Ahmedabad",KKR,Bowl,Win,120.0
+M_0099,Rashid Khan,GT,KKR,2,1,0,0,0,2024,"Narendra Modi Stadium, Ahmedabad",KKR,Bowl,Win,200.0
+M_0099,Rinku Singh,KKR,GT,51,32,0,4,1,2024,"Narendra Modi Stadium, Ahmedabad",KKR,Bowl,Lose,159.38
+M_0100,Virat Kohli,RCB,CSK,41,31,0,4,0,2024,"Wankhede Stadium, Mumbai",RCB,Bowl,Lose,132.26
+M_0100,MS Dhoni,CSK,RCB,41,27,0,3,1,2024,"Wankhede Stadium, Mumbai",RCB,Bowl,Win,151.85
+M_0100,Ravindra Jadeja,CSK,RCB,8,6,1,0,0,2024,"Wankhede Stadium, Mumbai",RCB,Bowl,Win,133.33
+M_0101,Rohit Sharma,MI,GT,11,10,0,0,0,2025,"Wankhede Stadium, Mumbai",GT,Bowl,Win,110.0
+M_0101,Shubman Gill,GT,MI,59,43,0,4,1,2025,"Wankhede Stadium, Mumbai",GT,Bowl,Lose,137.21
+M_0101,Suryakumar Yadav,MI,GT,26,16,0,3,0,2025,"Wankhede Stadium, Mumbai",GT,Bowl,Win,162.5
+M_0101,Hardik Pandya,MI,GT,32,22,1,3,0,2025,"Wankhede Stadium, Mumbai",GT,Bowl,Win,145.45
+M_0101,Rashid Khan,GT,MI,20,14,3,2,0,2025,"Wankhede Stadium, Mumbai",GT,Bowl,Lose,142.86
+M_0101,Jasprit Bumrah,MI,GT,5,4,1,0,0,2025,"Wankhede Stadium, Mumbai",GT,Bowl,Win,125.0
+M_0102,Virat Kohli,RCB,RR,30,22,0,3,0,2025,"Eden Gardens, Kolkata",RR,Bowl,Lose,136.36
+M_0102,Yuzvendra Chahal,RR,RCB,1,1,3,0,0,2025,"Eden Gardens, Kolkata",RR,Bowl,Win,100.0
+M_0103,Rohit Sharma,MI,RR,13,10,0,1,0,2025,"Wankhede Stadium, Mumbai",RR,Bat,Win,130.0
+M_0103,Suryakumar Yadav,MI,RR,37,22,0,3,1,2025,"Wankhede Stadium, Mumbai",RR,Bat,Win,168.18
+M_0103,Hardik Pandya,MI,RR,8,6,2,0,0,2025,"Wankhede Stadium, Mumbai",RR,Bat,Win,133.33
+M_0103,Jasprit Bumrah,MI,RR,0,0,2,0,0,2025,"Wankhede Stadium, Mumbai",RR,Bat,Win,0.0
+M_0103,Yuzvendra Chahal,RR,MI,0,0,1,0,0,2025,"Wankhede Stadium, Mumbai",RR,Bat,Lose,0.0
+M_0104,Rinku Singh,KKR,RR,40,25,0,5,0,2025,"Narendra Modi Stadium, Ahmedabad",RR,Bowl,Lose,160.0
+M_0104,Yuzvendra Chahal,RR,KKR,11,16,1,0,0,2025,"Narendra Modi Stadium, Ahmedabad",RR,Bowl,Win,68.75
+M_0105,Virat Kohli,RCB,CSK,36,31,0,3,0,2025,"Eden Gardens, Kolkata",CSK,Bowl,Win,116.13
+M_0105,MS Dhoni,CSK,RCB,26,15,0,3,0,2025,"Eden Gardens, Kolkata",CSK,Bowl,Lose,173.33
+M_0105,Ravindra Jadeja,CSK,RCB,12,8,0,1,0,2025,"Eden Gardens, Kolkata",CSK,Bowl,Lose,150.0
+M_0106,Rohit Sharma,MI,KKR,53,41,0,5,0,2025,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Win,129.27
+M_0106,Suryakumar Yadav,MI,KKR,40,21,0,4,1,2025,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Win,190.48
+M_0106,Hardik Pandya,MI,KKR,2,1,0,0,0,2025,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Win,200.0
+M_0106,Jasprit Bumrah,MI,KKR,2,2,5,0,0,2025,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Win,100.0
+M_0106,Rinku Singh,KKR,MI,27,16,0,3,0,2025,"Narendra Modi Stadium, Ahmedabad",MI,Bat,Lose,168.75
+M_0107,Rohit Sharma,MI,LSG,43,37,0,3,0,2025,"M. Chinnaswamy Stadium, Bengaluru",MI,Bat,Lose,116.22
+M_0107,Suryakumar Yadav,MI,LSG,11,6,0,1,0,2025,"M. Chinnaswamy Stadium, Bengaluru",MI,Bat,Lose,183.33
+M_0107,KL Rahul,LSG,MI,0,0,0,0,0,2025,"M. Chinnaswamy Stadium, Bengaluru",MI,Bat,Win,0.0
+M_0107,Hardik Pandya,MI,LSG,24,17,2,2,0,2025,"M. Chinnaswamy Stadium, Bengaluru",MI,Bat,Lose,141.18
+M_0107,Jasprit Bumrah,MI,LSG,6,9,2,0,0,2025,"M. Chinnaswamy Stadium, Bengaluru",MI,Bat,Lose,66.67
+M_0108,Virat Kohli,RCB,CSK,34,27,0,3,0,2025,"Wankhede Stadium, Mumbai",RCB,Bowl,Lose,125.93
+M_0108,MS Dhoni,CSK,RCB,25,15,0,3,0,2025,"Wankhede Stadium, Mumbai",RCB,Bowl,Win,166.67
+M_0108,Ravindra Jadeja,CSK,RCB,5,4,2,0,0,2025,"Wankhede Stadium, Mumbai",RCB,Bowl,Win,125.0
+M_0109,Rinku Singh,KKR,RR,31,23,0,3,0,2025,"Wankhede Stadium, Mumbai",RR,Bowl,Lose,134.78
+M_0109,Yuzvendra Chahal,RR,KKR,1,1,0,0,0,2025,"Wankhede Stadium, Mumbai",RR,Bowl,Win,100.0
+M_0110,Rohit Sharma,MI,CSK,26,18,0,2,0,2025,"Wankhede Stadium, Mumbai",MI,Bowl,Lose,144.44
+M_0110,MS Dhoni,CSK,MI,15,11,0,1,0,2025,"Wankhede Stadium, Mumbai",MI,Bowl,Win,136.36
+M_0110,Suryakumar Yadav,MI,CSK,13,8,0,1,0,2025,"Wankhede Stadium, Mumbai",MI,Bowl,Lose,162.5
+M_0110,Ravindra Jadeja,CSK,MI,50,34,2,5,0,2025,"Wankhede Stadium, Mumbai",MI,Bowl,Win,147.06
+M_0110,Hardik Pandya,MI,CSK,14,8,2,1,0,2025,"Wankhede Stadium, Mumbai",MI,Bowl,Lose,175.0
+M_0110,Jasprit Bumrah,MI,CSK,1,2,2,0,0,2025,"Wankhede Stadium, Mumbai",MI,Bowl,Lose,50.0
+M_0111,MS Dhoni,CSK,KKR,26,18,0,2,0,2025,"MA Chidambaram Stadium, Chennai",CSK,Bat,Lose,144.44
+M_0111,Ravindra Jadeja,CSK,KKR,18,11,0,2,0,2025,"MA Chidambaram Stadium, Chennai",CSK,Bat,Lose,163.64
+M_0111,Rinku Singh,KKR,CSK,18,11,0,2,0,2025,"MA Chidambaram Stadium, Chennai",CSK,Bat,Win,163.64
+M_0112,Rohit Sharma,MI,GT,25,17,0,2,0,2025,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Win,147.06
+M_0112,Shubman Gill,GT,MI,67,50,0,5,1,2025,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Lose,134.0
+M_0112,Suryakumar Yadav,MI,GT,33,15,0,4,1,2025,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Win,220.0
+M_0112,Hardik Pandya,MI,GT,34,26,1,3,0,2025,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Win,130.77
+M_0112,Rashid Khan,GT,MI,17,16,3,1,0,2025,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Lose,106.25
+M_0112,Jasprit Bumrah,MI,GT,2,2,2,0,0,2025,"Narendra Modi Stadium, Ahmedabad",GT,Bat,Win,100.0
+M_0113,Virat Kohli,RCB,MI,48,42,0,4,0,2025,"MA Chidambaram Stadium, Chennai",MI,Bat,Win,114.29
+M_0113,Rohit Sharma,MI,RCB,30,23,0,3,0,2025,"MA Chidambaram Stadium, Chennai",MI,Bat,Lose,130.43
+M_0113,Suryakumar Yadav,MI,RCB,25,14,0,3,0,2025,"MA Chidambaram Stadium, Chennai",MI,Bat,Lose,178.57
+M_0113,Hardik Pandya,MI,RCB,8,5,2,1,0,2025,"MA Chidambaram Stadium, Chennai",MI,Bat,Lose,160.0
+M_0113,Jasprit Bumrah,MI,RCB,5,4,0,0,0,2025,"MA Chidambaram Stadium, Chennai",MI,Bat,Lose,125.0
+M_0114,Shubman Gill,GT,KKR,23,16,0,2,0,2025,"Eden Gardens, Kolkata",GT,Bat,Win,143.75
+M_0114,Rashid Khan,GT,KKR,1,1,4,0,0,2025,"Eden Gardens, Kolkata",GT,Bat,Win,100.0
+M_0114,Rinku Singh,KKR,GT,43,30,0,4,0,2025,"Eden Gardens, Kolkata",GT,Bat,Lose,143.33
+M_0115,Virat Kohli,RCB,KKR,36,30,0,3,0,2025,"M. Chinnaswamy Stadium, Bengaluru",RCB,Bat,Lose,120.0
+M_0115,Rinku Singh,KKR,RCB,43,25,0,5,0,2025,"M. Chinnaswamy Stadium, Bengaluru",RCB,Bat,Win,172.0
+M_0116,MS Dhoni,CSK,LSG,7,4,0,0,0,2025,"MA Chidambaram Stadium, Chennai",CSK,Bat,Win,175.0
+M_0116,KL Rahul,LSG,CSK,33,25,0,3,0,2025,"MA Chidambaram Stadium, Chennai",CSK,Bat,Lose,132.0
+M_0116,Ravindra Jadeja,CSK,LSG,26,19,0,2,0,2025,"MA Chidambaram Stadium, Chennai",CSK,Bat,Win,136.84
+M_0117,Virat Kohli,RCB,GT,62,46,0,4,1,2025,"Eden Gardens, Kolkata",RCB,Bat,Win,134.78
+M_0117,Shubman Gill,GT,RCB,63,43,0,5,1,2025,"Eden Gardens, Kolkata",RCB,Bat,Lose,146.51
+M_0117,Rashid Khan,GT,RCB,13,8,2,1,0,2025,"Eden Gardens, Kolkata",RCB,Bat,Lose,162.5
+M_0118,Virat Kohli,RCB,KKR,41,33,0,3,0,2025,"MA Chidambaram Stadium, Chennai",RCB,Bat,Lose,124.24
+M_0118,Rinku Singh,KKR,RCB,28,19,0,3,0,2025,"MA Chidambaram Stadium, Chennai",RCB,Bat,Win,147.37
+M_0119,MS Dhoni,CSK,RR,32,19,0,2,1,2025,"Wankhede Stadium, Mumbai",CSK,Bowl,Win,168.42
+M_0119,Ravindra Jadeja,CSK,RR,58,38,1,5,1,2025,"Wankhede Stadium, Mumbai",CSK,Bowl,Win,152.63
+M_0119,Yuzvendra Chahal,RR,CSK,0,0,0,0,0,2025,"Wankhede Stadium, Mumbai",CSK,Bowl,Lose,0.0
+M_0120,KL Rahul,LSG,KKR,107,95,0,7,1,2025,"Narendra Modi Stadium, Ahmedabad",KKR,Bowl,Win,112.63
+M_0120,Rinku Singh,KKR,LSG,10,6,0,1,0,2025,"Narendra Modi Stadium, Ahmedabad",KKR,Bowl,Lose,166.67
+M_0121,Shubman Gill,GT,KKR,89,54,0,9,1,2025,"MA Chidambaram Stadium, Chennai",GT,Bowl,Lose,164.81
+M_0121,Rashid Khan,GT,KKR,3,2,0,0,0,2025,"MA Chidambaram Stadium, Chennai",GT,Bowl,Lose,150.0
+M_0121,Rinku Singh,KKR,GT,60,40,0,5,1,2025,"MA Chidambaram Stadium, Chennai",GT,Bowl,Win,150.0
+M_0122,Shubman Gill,GT,LSG,0,0,0,0,0,2025,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Win,0.0
+M_0122,KL Rahul,LSG,GT,27,27,0,2,0,2025,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Lose,100.0
+M_0122,Rashid Khan,GT,LSG,17,10,2,2,0,2025,"M. Chinnaswamy Stadium, Bengaluru",GT,Bowl,Win,170.0
+M_0123,Shubman Gill,GT,LSG,50,30,0,5,1,2025,"Narendra Modi Stadium, Ahmedabad",GT,Bowl,Lose,166.67
+M_0123,KL Rahul,LSG,GT,41,32,0,4,0,2025,"Narendra Modi Stadium, Ahmedabad",GT,Bowl,Win,128.12
+M_0123,Rashid Khan,GT,LSG,16,10,2,2,0,2025,"Narendra Modi Stadium, Ahmedabad",GT,Bowl,Lose,160.0
+M_0124,Rinku Singh,KKR,RR,4,3,0,0,0,2025,"MA Chidambaram Stadium, Chennai",KKR,Bat,Lose,133.33
+M_0124,Yuzvendra Chahal,RR,KKR,1,2,1,0,0,2025,"MA Chidambaram Stadium, Chennai",KKR,Bat,Win,50.0
+M_0125,Virat Kohli,RCB,LSG,28,22,0,2,0,2025,"Eden Gardens, Kolkata",RCB,Bat,Win,127.27
+M_0125,KL Rahul,LSG,RCB,42,35,0,3,0,2025,"Eden Gardens, Kolkata",RCB,Bat,Lose,120.0

@@ -1,0 +1,23 @@
+==========================================================
+IPL CRICKET DATA ANALYTICS - INSIGHTS REPORT (2021-2025)
+==========================================================
+
+1. LEADING PERFORMERS (CAREER STATS):
+   * Orange Cap Leader (Overall Runs): Virat Kohli (1757 Runs, Avg: 47.49)
+   * Strike Rate King: Suryakumar Yadav (Strike Rate: 166.76% over 31 matches)
+   * Most Consistent Batter: Suryakumar Yadav (Consistency Index (CV): 45.81%, lower is more reliable)
+
+2. TEAM DOMINANCE:
+   * Best Performing Team: LSG with a Win Percentage of 71.43% (25 Wins out of 35 Matches).
+
+3. TOSS ADVANTAGE ANALYSIS:
+   * Teams winning the toss went on to win the match 55.2% of the time. This indicates a moderate home/toss advantage in the tournament conditions.
+
+4. SEASON AWARDS SUMMARY:
+   * Season 2021: Orange Cap: KL Rahul (636 Runs) | Purple Cap: Yuzvendra Chahal (14 Wickets)
+   * Season 2022: Orange Cap: Shubman Gill (308 Runs) | Purple Cap: Ravindra Jadeja (11 Wickets)
+   * Season 2023: Orange Cap: Shubman Gill (424 Runs) | Purple Cap: Yuzvendra Chahal (20 Wickets)
+   * Season 2024: Orange Cap: Virat Kohli (670 Runs) | Purple Cap: Ravindra Jadeja (12 Wickets)
+   * Season 2025: Orange Cap: Shubman Gill (351 Runs) | Purple Cap: Rashid Khan (16 Wickets)
+
+Project Completed Successfully.
